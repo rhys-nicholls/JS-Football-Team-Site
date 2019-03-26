@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { AppBar, Button, Toolbar } from '@material-ui/core/';
 
 import { Link } from 'react-router-dom';
-import { TeamLogo } from '../UI/Icons';
+import { TeamLogo } from '../ui/icons';
 
 export default class Header extends Component {
   render() {
